@@ -1,0 +1,4 @@
+alias desk='cd /Users/austinlauritsen/Desktop'
+alias drop='cd /Users/austinlauritsen/Dropbox'
+alias drive='cd /Users/austinlauritsen/Google\ Drive/'
+alias dev='cd /Users/austinlauritsen/Development'
