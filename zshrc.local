@@ -10,3 +10,6 @@ setopt promptsubst
 PS1='[%{$fg[green]%}%n@%m%{$reset_color%}:~%d$(git_prompt_info)%{$reset_color%}$] '
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
+
+export NVM_DIR="$HOME/.nvm" 
+. "/usr/local/opt/nvm/nvm.sh"
