@@ -1,5 +1,0 @@
-alias desk='cd /Users/austinlauritsen/Desktop'
-alias drop='cd /Users/austinlauritsen/Dropbox'
-alias drive='cd /Users/austinlauritsen/Google\ Drive/'
-alias dev='cd /Users/austinlauritsen/Development'
-alias new-react='git clone git@github.com:coryhouse/react-slingshot.git'
